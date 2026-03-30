@@ -1,0 +1,21 @@
+Arithmetic operators
+Assignment operators
+Comparison operators
+Logical operators
+Identity operators
+Membership operators
+         Arithmetic operators :
+            +  Add
+            -  Sub
+            *  Mul
+            /  (division operators) quo with decimal values
+            //  (floor division) quo without decimal values
+            **  exponentiation operator.
+Operator	  Name		Example
++		   Addition	         x + y	
+-		   Subtraction	      x - y	
+*		   Multiplication	   x * y	
+/		   Division		      x / y    (quo with decimal values)	
+//		   Floor division	   x // y   (quo without decimal value)
+%		   Modulus	         x % y    (Remainder)	
+**		   Exponentiation	   x ** y	
