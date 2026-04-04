@@ -62,3 +62,4 @@ Float : Numbers with decimal values can be called float values\
 -9.6 , 9.8 ,5.6
 complex numbers :
 4+7j  -6-8j
+type(): It is a function which can be used to display the type of the data 
