@@ -1,0 +1,64 @@
+Python is a high level programming language.
+CPL(Computer Programming Languages)
+    1.Low Level Programming Languages(Machine Language)
+        The Languages which can be understood computer can be called as Low Level languages(Machine)
+        Example : ALP(Assembly Language Programming)
+    2.High Level Programming languages.
+        The programming languages which can't understood by the computer
+        These languages can be written English.
+        Human understadable language.
+        C,C++,java,C#,Python etc..
+Translators :
+    1.Compiler :It is an application which can convert highlevel language into
+        Machine language.
+        C,C++ Uses Compiler
+
+    2.Interpreter :Interpreter is an application which can conver high level
+      Machine.
+      Python Uses Interperted
+Python is Object Oriented Programming language.
+    It follows four properties  oops(Object Oriented Progamming Structure)
+        1.Encapsulation
+        2.Abstraction 
+        3.Polymorphism 
+        4.Inheritance 
+        5.class
+        6.object
+Python is General Purpose programming language
+        It is used in Eduction
+        It is used in Research
+        It is used in science and Engineering
+        It is used for DataScience
+        It is used in DataAnalytics
+        It is used in Development
+        It is used in Medical
+Python is a case sensitive language.
+Python is Open source.
+Python is a dynamically typed language.
+Python is a Portable.
+Python is a  interpreted language.
+Python is  a simple programming language.
+
+
+output function : In order to display the stmts and can be display the data types.
+print("Hello World")
+
+String : Anything written in single quotes , double quotes , triple quotes can be called as
+string
+'aaaa'
+'90'
+"--=37989sdjfs"
+"""sfjasklfjslf"""
+'''fskdjfsdkf233ou43iow*-*-'''
+""
+''
+''''''  Empty String
+IDLE(Integrated Development and Learning Environment)
+Integers : Numbers with out decimal values may be +ve or -ve
+
+10,100 -900 0
+
+Float : Numbers with decimal values can be called float values\
+-9.6 , 9.8 ,5.6
+complex numbers :
+4+7j  -6-8j
